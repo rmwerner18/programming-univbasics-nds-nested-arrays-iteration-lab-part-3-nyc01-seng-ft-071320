@@ -12,5 +12,6 @@ def join_nested_strings(src)
       inner_count += 1
     end
     outer_count += 1
+  end
   return joined_phrase
 end
